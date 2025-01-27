@@ -2,6 +2,7 @@
 **Predicting the market value of professional soccer players using machine learning and data analysis.**
 
 ## 📌 Project Overview
+🔍 This project was developed as part of my Computer Engineering degree at Universidad Francisco de Vitoria (UFV), Madrid, Spain.
 This project presents the development of a **predictive model** to estimate the **market value** of soccer players using **machine learning techniques** and **data analysis**. The model leverages **historical data from Transfermarkt and FBref** (2017-2020 seasons) to provide accurate predictions based on player performance, age, position, and other key attributes.
 
 ## 🎯 Objectives
@@ -39,3 +40,5 @@ This project presents the development of a **predictive model** to estimate the 
    ```bash
    git clone https://github.com/TU_USUARIO/football-market-value-prediction.git
    cd football-market-value-prediction
+
+
