@@ -3,7 +3,8 @@
 
 ## 📌 Project Overview
 🔍 This project was developed as part of my Computer Engineering degree at Universidad Francisco de Vitoria (UFV), Madrid, Spain.
-This project presents the development of a **predictive model** to estimate the **market value** of soccer players using **machine learning techniques** and **data analysis**. The model leverages **historical data from Transfermarkt and FBref** (2017-2020 seasons) to provide accurate predictions based on player performance, age, position, and other key attributes.
+
+This project presents the development of a **predictive model** to estimate the **market value** of soccer players using **machine learning techniques** and **data analysis**. The model is implemented in **Google Colab** and is based on historical data from **Transfermarkt and FBref**.
 
 ## 🎯 Objectives
 - Build a **data-driven** model to predict the **market value** of football players.
@@ -11,11 +12,15 @@ This project presents the development of a **predictive model** to estimate the 
 - Optimize model performance using **hyperparameter tuning**.
 - Provide insights through **data visualization**.
 
+---
+
 ## 🛠 Tech Stack
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM, Seaborn, Matplotlib, Plotly
 - **Development Environment**: Google Colab
 - **Data Sources**: Transfermarkt, FBref
+
+---
 
 ## 📊 Data Analysis & Model Development
 ### 🔹 Data Collection & Cleaning
@@ -36,9 +41,17 @@ This project presents the development of a **predictive model** to estimate the 
 - Developed a **pipeline** for real-time player value prediction.
 
 ## 🚀 How to Run the Project
+Install requirements.txt 
+   ```bash
+   pip install -r requirements.txt
+
+### **Option 1: Run on Google Colab**
+1. Open the **`PFG_definitivo.ipynb`** notebook in Google Colab.
+2. Upload the required datasets (found in the `data/` folder).
+3. Execute all cells.
+
+### **Option 2: Run Locally**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TU_USUARIO/football-market-value-prediction.git
+   git clone https://github.com/AlvaroSalvadorLopez/football-market-value-prediction.git
    cd football-market-value-prediction
-
-
