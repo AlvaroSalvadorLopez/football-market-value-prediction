@@ -41,9 +41,11 @@ This project presents the development of a **predictive model** to estimate the 
 - Developed a **pipeline** for real-time player value prediction.
 
 ## 🚀 How to Run the Project
-Install requirements.txt 
-   ```bash
-   pip install -r requirements.txt
+### **Step 1: Install Dependencies**
+Make sure you have all required dependencies installed. Run:
+
+```bash
+pip install -r requirements.txt
 
 ### **Option 1: Run on Google Colab**
 1. Open the **`PFG_definitivo.ipynb`** notebook in Google Colab.
