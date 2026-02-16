@@ -57,3 +57,22 @@ pip install -r requirements.txt
    ```bash
    git clone https://github.com/AlvaroSalvadorLopez/football-market-value-prediction.git
    cd football-market-value-prediction
+
+## Skills Demonstrated
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Machine learning model development
+- Model evaluation and optimization
+- Feature engineering
+- Data visualization
+- Predictive modeling
+
+
+## Author
+
+Álvaro Salvador López  
+Computer Engineer | Data Analytics | Machine Learning  
+
+GitHub: https://github.com/AlvaroSalvadorLopez  
+LinkedIn: https://www.linkedin.com/in/alvaro-salvador-lopez
