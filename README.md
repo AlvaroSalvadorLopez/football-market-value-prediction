@@ -68,6 +68,13 @@ pip install -r requirements.txt
 - Data visualization
 - Predictive modeling
 
+## Documentation
+
+The full project report is available here:
+
+docs/football-market-value-prediction-thesis.pdf
+
+This document provides detailed explanation of the methodology, data preprocessing, model training, and evaluation.
 
 ## Author
 
